@@ -1,0 +1,32 @@
+local GoldContibute = {} 
+GoldContibute[1] = {ID = 1, num = 1, goldneed = 5, contribute = 1, score = 1, LegSciexp = 1}
+GoldContibute[2] = {ID = 2, num = 2, goldneed = 5, contribute = 1, score = 1, LegSciexp = 1}
+GoldContibute[3] = {ID = 3, num = 3, goldneed = 5, contribute = 1, score = 1, LegSciexp = 1}
+GoldContibute[4] = {ID = 4, num = 4, goldneed = 5, contribute = 1, score = 1, LegSciexp = 1}
+GoldContibute[5] = {ID = 5, num = 5, goldneed = 5, contribute = 1, score = 1, LegSciexp = 1}
+GoldContibute[6] = {ID = 6, num = 6, goldneed = 10, contribute = 2, score = 2, LegSciexp = 2}
+GoldContibute[7] = {ID = 7, num = 7, goldneed = 10, contribute = 2, score = 2, LegSciexp = 2}
+GoldContibute[8] = {ID = 8, num = 8, goldneed = 10, contribute = 2, score = 2, LegSciexp = 2}
+GoldContibute[9] = {ID = 9, num = 9, goldneed = 10, contribute = 2, score = 2, LegSciexp = 2}
+GoldContibute[10] = {ID = 10, num = 10, goldneed = 10, contribute = 2, score = 2, LegSciexp = 2}
+GoldContibute[11] = {ID = 11, num = 11, goldneed = 15, contribute = 3, score = 3, LegSciexp = 3}
+GoldContibute[12] = {ID = 12, num = 12, goldneed = 15, contribute = 3, score = 3, LegSciexp = 3}
+GoldContibute[13] = {ID = 13, num = 13, goldneed = 15, contribute = 3, score = 3, LegSciexp = 3}
+GoldContibute[14] = {ID = 14, num = 14, goldneed = 15, contribute = 3, score = 3, LegSciexp = 3}
+GoldContibute[15] = {ID = 15, num = 15, goldneed = 15, contribute = 3, score = 3, LegSciexp = 3}
+GoldContibute[16] = {ID = 16, num = 16, goldneed = 20, contribute = 4, score = 4, LegSciexp = 4}
+GoldContibute[17] = {ID = 17, num = 17, goldneed = 20, contribute = 4, score = 4, LegSciexp = 4}
+GoldContibute[18] = {ID = 18, num = 18, goldneed = 20, contribute = 4, score = 4, LegSciexp = 4}
+GoldContibute[19] = {ID = 19, num = 19, goldneed = 20, contribute = 4, score = 4, LegSciexp = 4}
+GoldContibute[20] = {ID = 20, num = 20, goldneed = 20, contribute = 4, score = 4, LegSciexp = 4}
+GoldContibute[21] = {ID = 21, num = 21, goldneed = 25, contribute = 5, score = 5, LegSciexp = 5}
+GoldContibute[22] = {ID = 22, num = 22, goldneed = 25, contribute = 5, score = 5, LegSciexp = 5}
+GoldContibute[23] = {ID = 23, num = 23, goldneed = 25, contribute = 5, score = 5, LegSciexp = 5}
+GoldContibute[24] = {ID = 24, num = 24, goldneed = 25, contribute = 5, score = 5, LegSciexp = 5}
+GoldContibute[25] = {ID = 25, num = 25, goldneed = 25, contribute = 5, score = 5, LegSciexp = 5}
+GoldContibute[26] = {ID = 26, num = 26, goldneed = 30, contribute = 6, score = 6, LegSciexp = 6}
+GoldContibute[27] = {ID = 27, num = 27, goldneed = 30, contribute = 6, score = 6, LegSciexp = 6}
+GoldContibute[28] = {ID = 28, num = 28, goldneed = 30, contribute = 6, score = 6, LegSciexp = 6}
+GoldContibute[29] = {ID = 29, num = 29, goldneed = 30, contribute = 6, score = 6, LegSciexp = 6}
+GoldContibute[30] = {ID = 30, num = 30, goldneed = 30, contribute = 6, score = 6, LegSciexp = 6}
+return GoldContibute

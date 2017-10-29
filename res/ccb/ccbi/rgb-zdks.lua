@@ -1,0 +1,20 @@
+local data = {
+['ccb/xian.png'] = true,
+['ccb/guangxian.png'] = true,
+['ccb/jue.png'] = true,
+['ccb/glowquan.png'] = true,
+['ccb/yan.png'] = true,
+['ccb/dui.png'] = true,
+['ccb/glow.png'] = true,
+['ccb/fansheguang.png'] = true,
+['ccb/dian_00002.png'] = true,
+['ccb/dian_00003.png'] = true,
+['ccb/temp/boss02.png'] = true,
+['ccb/dian_00001.png'] = true,
+['ccb/quan.png'] = true,
+['ccb/lizi_y.png'] = true,
+['ccb/dian_00006.png'] = true,
+['ccb/dian_00005.png'] = true,
+['ccb/dian_00004.png'] = true,
+}
+return data

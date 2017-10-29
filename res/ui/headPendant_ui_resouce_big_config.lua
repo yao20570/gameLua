@@ -1,0 +1,22 @@
+local data = {
+['images/headPendant/116.png']={0,369,47,39,46},
+['images/headPendant/118.png']={0,53,1,95,45},
+['images/headPendant/117.png']={0,53,47,95,44},
+['images/headPendant/119.png']={0,1,1,51,102},
+['images/headPendant/109.png']={0,386,1,45,45},
+['images/headPendant/108.png']={0,130,92,61,35},
+['images/headPendant/114.png']={0,352,36,16,40},
+['images/headPendant/115.png']={0,328,85,36,36},
+['images/headPendant/112.png']={0,227,36,64,38},
+['images/headPendant/113.png']={0,292,36,59,48},
+['images/headPendant/110.png']={0,53,92,76,35},
+['images/headPendant/111.png']={0,149,1,77,58},
+['images/headPendant/101.png']={0,1,104,1,1},
+['images/headPendant/103.png']={0,192,86,45,41},
+['images/headPendant/102.png']={0,292,85,35,42},
+['images/headPendant/105.png']={0,149,60,73,25},
+['images/headPendant/104.png']={0,320,1,65,34},
+['images/headPendant/107.png']={0,238,75,53,46},
+['images/headPendant/106.png']={0,227,1,92,34},
+}
+return data

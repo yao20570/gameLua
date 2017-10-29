@@ -1,0 +1,164 @@
+
+skeleton.png
+size: 978,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rgb-fire-ball/fireball_00012
+  rotate: true
+  xy: 2, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00014
+  rotate: false
+  xy: 770, 660
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00016
+  rotate: true
+  xy: 356, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00018
+  rotate: false
+  xy: 770, 306
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00020
+  rotate: false
+  xy: 874, 660
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00005
+  rotate: false
+  xy: 2, 560
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00006
+  rotate: false
+  xy: 2, 106
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00007
+  rotate: false
+  xy: 386, 560
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00008
+  rotate: false
+  xy: 386, 106
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 770,910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rgb-fire-bomb/bomb_00009
+  rotate: false
+  xy: 2, 456
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00010
+  rotate: false
+  xy: 2, 2
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00011
+  rotate: false
+  xy: 386, 456
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00012
+  rotate: false
+  xy: 386, 2
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 770,910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rgb-fire-bomb/bomb_00013
+  rotate: false
+  xy: 2, 456
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00014
+  rotate: false
+  xy: 2, 2
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00015
+  rotate: false
+  xy: 386, 456
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00016
+  rotate: false
+  xy: 386, 2
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 840,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rgb-fire-bomb/bomb_00017
+  rotate: true
+  xy: 2, 386
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00018
+  rotate: false
+  xy: 456, 316
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1
+rgb-fire-bomb/bomb_00019
+  rotate: true
+  xy: 2, 2
+  size: 382, 452
+  orig: 382, 452
+  offset: 0, 0
+  index: -1

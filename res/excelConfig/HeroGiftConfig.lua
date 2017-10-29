@@ -1,0 +1,33 @@
+local HeroGift = {} 
+HeroGift[1] = {ID = 1, name = '迷惑', icon = 1, info = '提高前排全体刀兵的生存能力\n战斗时受到伤害－3%', otherInfo = '提高前排全体刀兵的生存能力，战斗时受到伤害－3%', firstnum = 0}
+HeroGift[2] = {ID = 2, name = '冷峻', icon = 2, info = '提高前排全体骑兵的进攻能力\n战斗时攻击伤害＋3%', otherInfo = '提高前排全体骑兵的进攻能力，战斗时攻击伤害＋3%', firstnum = 0}
+HeroGift[3] = {ID = 3, name = '助击', icon = 3, info = '提高前排全体枪兵的进攻能力\n战斗时攻击伤害＋3%', otherInfo = '提高前排全体枪兵的进攻能力，战斗时攻击伤害＋3%', firstnum = 0}
+HeroGift[4] = {ID = 4, name = '盗戟', icon = 4, info = '提高后排全体弓兵的进攻能力\n战斗时攻击伤害＋3%', otherInfo = '提高后排全体弓兵的进攻能力，战斗时攻击伤害＋3%', firstnum = 0}
+HeroGift[5] = {ID = 5, name = '恃勇', icon = 5, info = '提高上阵部队全体刀兵对全体弓兵克制效果\n刀兵攻击弓兵时伤害＋5%', otherInfo = '提高上阵部队全体刀兵对全体弓兵克制效果，刀兵攻击弓兵时伤害＋5%', firstnum = 0}
+HeroGift[6] = {ID = 6, name = '死斗', icon = 6, info = '提高上阵部队全体弓兵对全体枪兵克制效果\n弓兵攻击枪兵时伤害＋5%', otherInfo = '提高上阵部队全体弓兵对全体枪兵克制效果，弓兵攻击枪兵时伤害＋5%', firstnum = 0}
+HeroGift[7] = {ID = 7, name = '坚毅', icon = 7, info = '提高上阵部队全体枪兵对全体骑兵克制效果\n枪兵攻击骑兵时伤害＋5%', otherInfo = '提高上阵部队全体枪兵对全体骑兵克制效果，枪兵攻击骑兵时伤害＋5%', firstnum = 0}
+HeroGift[8] = {ID = 8, name = '毅力', icon = 8, info = '提高上阵部队全体刀兵进攻能力\n全体刀兵攻击＋3%', otherInfo = '提高上阵部队全体刀兵进攻能力，全体刀兵攻击＋3%，我方先手值＋1', firstnum = 1}
+HeroGift[9] = {ID = 9, name = '断粮', icon = 9, info = '提高上阵部队全体骑兵进攻能力\n全体骑兵攻击＋3%，敌方先手值－1', otherInfo = '提高上阵部队全体骑兵进攻能力，全体骑兵攻击＋3%，敌方先手值－1', firstnum = 0}
+HeroGift[10] = {ID = 10, name = '天意', icon = 10, info = '提高上阵部队全体枪兵进攻能力\n全体枪兵攻击＋3%', otherInfo = '提高上阵部队全体枪兵进攻能力，全体枪兵攻击＋3%，我方先手值＋2', firstnum = 2}
+HeroGift[11] = {ID = 11, name = '善变', icon = 11, info = '提高上阵部队全体弓兵进攻能力\n全体弓兵攻击＋3%，敌方先手值－2', otherInfo = '提高上阵部队全体弓兵进攻能力，全体弓兵攻击＋3%，敌方先手值－2', firstnum = 0}
+HeroGift[12] = {ID = 12, name = '苦肉', icon = 12, info = '提高上阵部队全体刀兵进攻能力\n全体刀兵攻击＋6%，敌方先手值－4', otherInfo = '提高上阵部队全体刀兵进攻能力，全体刀兵攻击＋6%，敌方先手值－4', firstnum = 0}
+HeroGift[13] = {ID = 13, name = '神速', icon = 13, info = '提高上阵部队全体骑兵进攻能力\n全体骑兵攻击＋8%', otherInfo = '提高上阵部队全体骑兵进攻能力，全体骑兵攻击＋8%，我方先手值＋10', firstnum = 10}
+HeroGift[14] = {ID = 14, name = '突袭', icon = 14, info = '提高上阵部队全体枪兵进攻能力\n全体枪兵攻击＋6%', otherInfo = '提高上阵部队全体枪兵进攻能力，全体枪兵攻击＋6%，我方先手值＋3', firstnum = 3}
+HeroGift[15] = {ID = 15, name = '挑衅', icon = 15, info = '提高上阵部队全体弓兵进攻能力\n全体弓兵攻击＋6%，敌方先手值－4', otherInfo = '提高上阵部队全体弓兵进攻能力，全体弓兵攻击＋6%，敌方先手值－4', firstnum = 0}
+HeroGift[16] = {ID = 16, name = '连营', icon = 16, info = '提高后排部队作战能力\n后排部队受到伤害－5%、伤害＋10%', otherInfo = '提高后排部队作战能力。后排部队受到伤害－5%、伤害＋10%，我方先手值＋7', firstnum = 7}
+HeroGift[17] = {ID = 17, name = '鬼嚎', icon = 17, info = '提高前排部队作战能力\n前排部队受到伤害－10%、伤害＋5%', otherInfo = '提高前排部队作战能力。前排部队受到伤害－10%、伤害＋5%，我方先手值＋15', firstnum = 15}
+HeroGift[18] = {ID = 18, name = '无惧', icon = 18, info = '提高上阵部队全体刀、枪兵生存能力\n全体刀、枪兵防护＋10', otherInfo = '提高上阵部队全体刀、枪兵生存能力\n全体刀、枪兵防护+10，我方先手值＋13', firstnum = 13}
+HeroGift[19] = {ID = 19, name = '龙胆', icon = 19, info = '提高上阵部队全体刀、枪兵生存进攻能力\n全体刀、枪兵受到伤害－10%', otherInfo = '提高上阵部队全体刀、枪兵生存进攻能力\n全体刀、枪兵受到伤害－10%，我方先手值＋8', firstnum = 8}
+HeroGift[20] = {ID = 20, name = '武神', icon = 20, info = '提高上阵部队全体骑兵进攻能力\n全体骑兵伤害＋8%、暴击＋10%', otherInfo = '提高上阵部队全体骑兵进攻能力\n全体骑兵伤害＋8%、暴击＋10%，我方先手值＋9', firstnum = 9}
+HeroGift[21] = {ID = 21, name = '预判', icon = 21, info = '提高上阵部队全体弓兵进攻能力\n全体弓兵伤害＋8%、命中＋10%', otherInfo = '提高上阵部队全体弓兵进攻能力\n全体弓兵伤害＋8%、命中＋10%，我方先手值＋7', firstnum = 7}
+HeroGift[22] = {ID = 22, name = '战神', icon = 22, info = '提高前排部队和上阵部队全体骑兵作战能力\n前排攻击＋10%，全体骑兵伤害＋5%', otherInfo = '提高前排部队和全体骑兵作战能力\n前排攻击＋10%，全体骑兵攻击＋5%，我方先手值＋18', firstnum = 18}
+HeroGift[23] = {ID = 23, name = '英姿', icon = 23, info = '提高后排部队和上阵部队全体弓兵作战能力\n后排攻击＋10%，全体弓兵伤害＋5%，敌方先手值－12', otherInfo = '提高后排部队和全体弓兵作战能力\n后排攻击＋10%，全体弓兵攻击＋5%，敌方先手值－12', firstnum = 0}
+HeroGift[24] = {ID = 24, name = '魅惑', icon = 24, info = '降低敌方前排作战能力\n敌方前排攻击－8%，敌方先手值－10', otherInfo = '降低敌方前排作战能力\n敌方前排攻击－8%，敌方先手值－10', firstnum = 0}
+HeroGift[25] = {ID = 25, name = '仁德', icon = 25, info = '降低敌方后排作战能力\n敌方后排攻击－25%，敌方先手值－3%', otherInfo = '降低敌方后排作战能力\n敌方后排攻击－25%，敌方先手值－3%，我方先手值＋5', firstnum = 5}
+HeroGift[26] = {ID = 26, name = '制衡', icon = 26, info = '提高全体部队作战能力。部队防护+30、\n闪避＋25%，我方先手值＋3%，敌方先手值－5', otherInfo = '提高全体部队作战能力\n部队防护+30、闪避＋25%，我方先手值＋3%，敌方先手值－5', firstnum = 0}
+HeroGift[27] = {ID = 27, name = '枭雄', icon = 27, info = '提高全体部队作战能力。部队暴击＋20%、\n命中＋30%，我方先手值＋2%、敌方先手值－2%', otherInfo = '提高全体部队作战能力\n部队暴击＋20%、命中＋30%，我方先手值＋2%、敌方先手值－2%', firstnum = 0}
+HeroGift[29] = {ID = 29, name = '忠壮', icon = 29, info = '全体枪兵减伤16%，\n降低敌方上排部队暴击30%，命中30%', otherInfo = '全体枪兵减伤16%，\n降低敌方上排部队暴击30%，命中30%', firstnum = 18}
+HeroGift[30] = {ID = 30, name = '恶来', icon = 30, info = '全体刀兵减伤16%，\n降低敌方中排部队闪避30%，命中30%', otherInfo = '全体刀兵减伤16%，\n降低敌方中排部队闪避30%，命中30%', firstnum = 13}
+HeroGift[31] = {ID = 31, name = '刚烈', icon = 31, info = '全体骑兵加伤25%，\n降低敌方下排部队抗暴30%，命中30%', otherInfo = '全体骑兵加伤25%，\n降低敌方下排部队抗暴30%，命中30%', firstnum = 16}
+HeroGift[32] = {ID = 32, name = '暴虐', icon = 32, info = '敌方全部部队命中降低25%，\n闪避降低20%，抗暴降低20%', otherInfo = '敌方全部部队命中降低25%，\n闪避降低20%，抗暴降低20%', firstnum = 17}
+return HeroGift

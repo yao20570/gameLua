@@ -1,0 +1,29 @@
+local BuffMessage = {} 
+BuffMessage[1] = {ID = 1, icon = 10601, info = '增加己方部队的伤害%s', value = '[20]', type = 11, sort = 1, power = '[28]', change = 10000, showtype = 1}
+BuffMessage[2] = {ID = 2, icon = 10602, info = '降低敌方部队的伤害%s', value = '[20]', type = 12, sort = 2, power = '[29]', change = 10000, showtype = 1}
+BuffMessage[3] = {ID = 3, icon = 10604, info = '在世界地图行军速度提升%s', value = '[100]', type = 13, sort = 3, power = '[23]', change = 10000, showtype = 1}
+BuffMessage[4] = {ID = 4, icon = 10603, info = '保护期不会被攻击和侦查', value = '[0]', type = 14, sort = 4, power = '[91]', change = 10000, showtype = 1}
+BuffMessage[5] = {ID = 5, icon = 10535, info = '增加银币%s的基础产量', value = '[50]', type = 15, sort = 5, power = '[69]', change = 100, showtype = 1}
+BuffMessage[6] = {ID = 6, icon = 10531, info = '增加铁矿%s的基础产量', value = '[50]', type = 16, sort = 6, power = '[70]', change = 100, showtype = 1}
+BuffMessage[7] = {ID = 7, icon = 10532, info = '增加石料%s的基础产量', value = '[50]', type = 17, sort = 7, power = '[72]', change = 100, showtype = 1}
+BuffMessage[8] = {ID = 8, icon = 10533, info = '增加木材%s的基础产量', value = '[50]', type = 18, sort = 8, power = '[71]', change = 100, showtype = 1}
+BuffMessage[9] = {ID = 9, icon = 10534, info = '增加粮食%s的基础产量', value = '[50]', type = 19, sort = 9, power = '[73]', change = 100, showtype = 1}
+BuffMessage[10] = {ID = 10, icon = 10603, info = '命中+15%，闪避暴击抗暴+5%', value = '[0]', type = 20, sort = 0, power = '[301]', change = 10000, showtype = 2}
+BuffMessage[11] = {ID = 11, icon = 10603, info = '命中+15%，闪避暴击抗暴+5%', value = '[0]', type = 21, sort = 0, power = '[302]', change = 10000, showtype = 2}
+BuffMessage[12] = {ID = 12, icon = 10603, info = '增加5种资源25%的基础产量', value = '[0]', type = 22, sort = 0, power = '[303]', change = 100, showtype = 2}
+BuffMessage[13] = {ID = 13, icon = 10603, info = '增加5种资源25%的基础产量', value = '[0]', type = 23, sort = 0, power = '[304]', change = 100, showtype = 2}
+BuffMessage[14] = {ID = 14, icon = 10603, info = '增加5种资源25%的基础产量', value = '[0]', type = 24, sort = 0, power = '[305]', change = 100, showtype = 2}
+BuffMessage[15] = {ID = 15, icon = 10603, info = '增加5种资源25%的基础产量', value = '[0]', type = 25, sort = 0, power = '[306]', change = 100, showtype = 2}
+BuffMessage[16] = {ID = 16, icon = 10603, info = '增加1个建筑位', value = '[0]', type = 26, sort = 0, power = '[307]', change = 100, showtype = 2}
+BuffMessage[17] = {ID = 17, icon = 10603, info = '增加1个建筑位', value = '[0]', type = 27, sort = 0, power = '[308]', change = 100, showtype = 2}
+BuffMessage[18] = {ID = 18, icon = 10603, info = '茅草屋基地外形生效中', value = '[0]', type = 28, sort = 0, power = '[309]', change = 100, showtype = 2}
+BuffMessage[19] = {ID = 19, icon = 10603, info = '暗黑城堡基地外形生效中', value = '[0]', type = 29, sort = 0, power = '[310]', change = 100, showtype = 2}
+BuffMessage[20] = {ID = 20, icon = 10603, info = '荒漠城堡基地外形生效中', value = '[0]', type = 30, sort = 0, power = '[311]', change = 100, showtype = 2}
+BuffMessage[21] = {ID = 21, icon = 10603, info = '铁矿伪装基地外形生效中', value = '[0]', type = 31, sort = 0, power = '[312,318]', change = 100, showtype = 2}
+BuffMessage[22] = {ID = 22, icon = 10603, info = '石矿伪装基地外形生效中', value = '[0]', type = 32, sort = 0, power = '[313,319]', change = 100, showtype = 2}
+BuffMessage[23] = {ID = 23, icon = 10603, info = '木场伪装基地外形生效中', value = '[0]', type = 33, sort = 0, power = '[314,320]', change = 100, showtype = 2}
+BuffMessage[24] = {ID = 24, icon = 10603, info = '粮田伪装基地外形生效中', value = '[0]', type = 34, sort = 0, power = '[315,321]', change = 100, showtype = 2}
+BuffMessage[25] = {ID = 25, icon = 10603, info = '银矿伪装基地外形生效中', value = '[0]', type = 35, sort = 0, power = '[316,322]', change = 100, showtype = 2}
+BuffMessage[26] = {ID = 26, icon = 10603, info = '增加1个建筑位', value = '[0]', type = 36, sort = 0, power = '[317]', change = 100, showtype = 2}
+BuffMessage[27] = {ID = 27, icon = 10603, info = '废墟中，5种资源产量-100%', value = '[0]', type = 37, sort = 0, power = '[]', change = 100, showtype = 3}
+return BuffMessage

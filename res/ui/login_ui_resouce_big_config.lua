@@ -1,0 +1,21 @@
+local data = {
+['images/login/Img_check.png']={0,701,194,39,41},
+['images/login/Bth_down_fram.png']={0,570,77,130,62},
+['images/login/bg-on.png']={0,1,1,299,96},
+['images/login/Bth_been_fram2.png']={0,701,77,268,76},
+['images/login/Bg_branching_ dark.png']={0,430,240,132,3},
+['images/login/none.png']={0,942,1,1,1},
+['images/login/bg_log_selected.png']={0,301,154,239,39},
+['images/login/Img_checkBox.png']={0,741,194,34,33},
+['images/login/imag11.png']={0,836,217,94,22},
+['images/login/imag12.png']={0,741,228,94,22},
+['images/login/Bg_check.png']={0,781,154,54,58},
+['images/login/Bg_txt.png']={0,1,98,299,96},
+['images/login/Bth_been_fram.png']={0,836,154,130,62},
+['images/login/Txt.png']={0,430,194,270,45},
+['images/login/Bth_down_fram2.png']={0,301,77,268,76},
+['images/login/Bg_activate.png']={0,1,195,428,56},
+['images/login/Bg_warn.png']={0,301,1,640,75},
+['images/login/Bg_log.png']={0,541,154,239,39},
+}
+return data

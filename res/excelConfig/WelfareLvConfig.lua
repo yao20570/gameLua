@@ -1,0 +1,32 @@
+local WelfareLv = {} 
+WelfareLv[1] = {ID = 1, lv = 1, scoreneed = 50, limitTimes = 50}
+WelfareLv[2] = {ID = 2, lv = 2, scoreneed = 100, limitTimes = 55}
+WelfareLv[3] = {ID = 3, lv = 3, scoreneed = 150, limitTimes = 55}
+WelfareLv[4] = {ID = 4, lv = 4, scoreneed = 200, limitTimes = 60}
+WelfareLv[5] = {ID = 5, lv = 5, scoreneed = 250, limitTimes = 60}
+WelfareLv[6] = {ID = 6, lv = 6, scoreneed = 300, limitTimes = 65}
+WelfareLv[7] = {ID = 7, lv = 7, scoreneed = 350, limitTimes = 65}
+WelfareLv[8] = {ID = 8, lv = 8, scoreneed = 400, limitTimes = 70}
+WelfareLv[9] = {ID = 9, lv = 9, scoreneed = 450, limitTimes = 70}
+WelfareLv[10] = {ID = 10, lv = 10, scoreneed = 500, limitTimes = 80}
+WelfareLv[11] = {ID = 11, lv = 11, scoreneed = 550, limitTimes = 80}
+WelfareLv[12] = {ID = 12, lv = 12, scoreneed = 600, limitTimes = 100}
+WelfareLv[13] = {ID = 13, lv = 13, scoreneed = 650, limitTimes = 100}
+WelfareLv[14] = {ID = 14, lv = 14, scoreneed = 700, limitTimes = 120}
+WelfareLv[15] = {ID = 15, lv = 15, scoreneed = 750, limitTimes = 120}
+WelfareLv[16] = {ID = 16, lv = 16, scoreneed = 800, limitTimes = 150}
+WelfareLv[17] = {ID = 17, lv = 17, scoreneed = 850, limitTimes = 150}
+WelfareLv[18] = {ID = 18, lv = 18, scoreneed = 900, limitTimes = 180}
+WelfareLv[19] = {ID = 19, lv = 19, scoreneed = 950, limitTimes = 180}
+WelfareLv[20] = {ID = 20, lv = 20, scoreneed = 1000, limitTimes = 210}
+WelfareLv[21] = {ID = 21, lv = 21, scoreneed = 1050, limitTimes = 210}
+WelfareLv[22] = {ID = 22, lv = 22, scoreneed = 1100, limitTimes = 240}
+WelfareLv[23] = {ID = 23, lv = 23, scoreneed = 1150, limitTimes = 240}
+WelfareLv[24] = {ID = 24, lv = 24, scoreneed = 1200, limitTimes = 270}
+WelfareLv[25] = {ID = 25, lv = 25, scoreneed = 1250, limitTimes = 270}
+WelfareLv[26] = {ID = 26, lv = 26, scoreneed = 1300, limitTimes = 270}
+WelfareLv[27] = {ID = 27, lv = 27, scoreneed = 1350, limitTimes = 300}
+WelfareLv[28] = {ID = 28, lv = 28, scoreneed = 1400, limitTimes = 300}
+WelfareLv[29] = {ID = 29, lv = 29, scoreneed = 1450, limitTimes = 300}
+WelfareLv[30] = {ID = 30, lv = 30, scoreneed = 0, limitTimes = 300}
+return WelfareLv

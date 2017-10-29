@@ -1,0 +1,30 @@
+local DayLand = {} 
+DayLand[1] = {ID = 1, sort = 1, rewardId = '[206,215,221,222]'}
+DayLand[2] = {ID = 2, sort = 2, rewardId = '[206,215,223,225]'}
+DayLand[3] = {ID = 3, sort = 3, rewardId = '[207,215,224,226]'}
+DayLand[4] = {ID = 4, sort = 4, rewardId = '[208,215,227,222]'}
+DayLand[5] = {ID = 5, sort = 5, rewardId = '[209,215,262,225]'}
+DayLand[6] = {ID = 6, sort = 6, rewardId = '[209,216,263,226]'}
+DayLand[7] = {ID = 7, sort = 7, rewardId = '[210,217,438,261]'}
+DayLand[8] = {ID = 8, sort = 8, rewardId = '[210,217,264,231]'}
+DayLand[9] = {ID = 9, sort = 9, rewardId = '[210,217,267,234]'}
+DayLand[10] = {ID = 10, sort = 10, rewardId = '[210,218,270,258]'}
+DayLand[11] = {ID = 11, sort = 11, rewardId = '[211,218,264,231]'}
+DayLand[12] = {ID = 12, sort = 12, rewardId = '[211,218,267,234]'}
+DayLand[13] = {ID = 13, sort = 13, rewardId = '[211,218,270,258]'}
+DayLand[14] = {ID = 14, sort = 14, rewardId = '[211,218,228,262]'}
+DayLand[15] = {ID = 15, sort = 15, rewardId = '[211,219,265,232]'}
+DayLand[16] = {ID = 16, sort = 16, rewardId = '[212,219,268,256]'}
+DayLand[17] = {ID = 17, sort = 17, rewardId = '[212,219,270,259]'}
+DayLand[18] = {ID = 18, sort = 18, rewardId = '[212,219,265,232]'}
+DayLand[19] = {ID = 19, sort = 19, rewardId = '[212,219,268,256]'}
+DayLand[20] = {ID = 20, sort = 20, rewardId = '[212,220,270,259]'}
+DayLand[21] = {ID = 21, sort = 21, rewardId = '[213,220,229,262]'}
+DayLand[22] = {ID = 22, sort = 22, rewardId = '[213,220,266,233]'}
+DayLand[23] = {ID = 23, sort = 23, rewardId = '[213,220,269,257]'}
+DayLand[24] = {ID = 24, sort = 24, rewardId = '[213,220,271,260]'}
+DayLand[25] = {ID = 25, sort = 25, rewardId = '[213,220,266,233]'}
+DayLand[26] = {ID = 26, sort = 26, rewardId = '[214,220,269,257]'}
+DayLand[27] = {ID = 27, sort = 27, rewardId = '[214,220,271,260]'}
+DayLand[28] = {ID = 28, sort = 28, rewardId = '[214,220,230,262]'}
+return DayLand

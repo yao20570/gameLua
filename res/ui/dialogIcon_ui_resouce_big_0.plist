@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/dialogIcon/dialog_Bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{620,190}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{620,190}}</string>
+			<key>sourceSize</key>
+			<string>{620,190}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>dialogIcon_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{622,192}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:9073e89752c13daf22592af094d043e3:1/1$</string>
+		<key>textureFileName</key>
+		<string>dialogIcon_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

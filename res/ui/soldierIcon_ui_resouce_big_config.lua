@@ -1,0 +1,23 @@
+local data = {
+['images/soldierIcon/202.png']={0,517,1,158,99},
+['images/soldierIcon/203.png']={0,358,1,158,102},
+['images/soldierIcon/201.png']={0,339,104,142,91},
+['images/soldierIcon/204.png']={0,195,1,162,101},
+['images/soldierIcon/205.png']={0,1,1,193,119},
+['images/soldierIcon/303.png']={0,162,192,126,83},
+['images/soldierIcon/302.png']={0,289,196,120,78},
+['images/soldierIcon/301.png']={0,627,205,108,70},
+['images/soldierIcon/305.png']={0,195,103,143,88},
+['images/soldierIcon/304.png']={0,517,101,138,85},
+['images/soldierIcon/404.png']={0,676,1,145,104},
+['images/soldierIcon/405.png']={0,1,121,160,117},
+['images/soldierIcon/401.png']={0,904,107,108,87},
+['images/soldierIcon/402.png']={0,656,106,127,98},
+['images/soldierIcon/403.png']={0,822,1,133,105},
+['images/soldierIcon/101.png']={0,736,205,93,70},
+['images/soldierIcon/103.png']={0,904,195,106,81},
+['images/soldierIcon/102.png']={0,410,196,104,79},
+['images/soldierIcon/105.png']={0,784,107,119,92},
+['images/soldierIcon/104.png']={0,515,187,111,88},
+}
+return data

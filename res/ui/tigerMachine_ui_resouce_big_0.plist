@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/tigerMachine/uibigdays30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{516,330}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{516,330}}</string>
+			<key>sourceSize</key>
+			<string>{516,330}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>tigerMachine_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{518,332}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:8d65fdda2d0e5a5253774ab054c13030:1/1$</string>
+		<key>textureFileName</key>
+		<string>tigerMachine_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,68 @@
+
+skeleton.pvr.ccz
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 439, 415
+  size: 87, 47
+  orig: 90, 51
+  offset: 2, 2
+  index: -1
+daoguang_0007
+  rotate: true
+  xy: 331, 2
+  size: 242, 112
+  orig: 421, 296
+  offset: 179, 74
+  index: -1
+daoguang_0008
+  rotate: true
+  xy: 331, 246
+  size: 256, 106
+  orig: 421, 296
+  offset: 135, 82
+  index: -1
+daoguang_0011
+  rotate: false
+  xy: 2, 211
+  size: 327, 291
+  orig: 421, 296
+  offset: 15, 0
+  index: -1
+daoguang_0012
+  rotate: false
+  xy: 2, 7
+  size: 310, 202
+  orig: 421, 296
+  offset: 14, 77
+  index: -1
+
+skeleton2.pvr.ccz
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_0009
+  rotate: true
+  xy: 308, 171
+  size: 290, 196
+  orig: 421, 296
+  offset: 58, 34
+  index: -1
+daoguang_0010
+  rotate: false
+  xy: 2, 217
+  size: 304, 244
+  orig: 421, 296
+  offset: 38, 15
+  index: -1
+daoguang_0013
+  rotate: false
+  xy: 2, 2
+  size: 290, 213
+  orig: 421, 296
+  offset: 8, 78
+  index: -1

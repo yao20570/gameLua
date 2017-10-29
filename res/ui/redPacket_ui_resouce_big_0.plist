@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/redPacket/aline.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{33,363},{62,4}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{62,4}}</string>
+			<key>sourceSize</key>
+			<string>{62,4}</string>
+		</dict>
+		<key>images/redPacket/money.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,363},{31,29}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{31,29}}</string>
+			<key>sourceSize</key>
+			<string>{31,29}</string>
+		</dict>
+		<key>images/redPacket/topBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{568,361}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{568,361}}</string>
+			<key>sourceSize</key>
+			<string>{568,361}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>redPacket_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{570,393}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:c83c532a9446a676d89b67f5c6556efe:1/1$</string>
+		<key>textureFileName</key>
+		<string>redPacket_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

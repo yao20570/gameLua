@@ -1,0 +1,23 @@
+local data = {
+['ccb/gb-jian.png'] = true,
+['ccb/houqiu_00012.png'] = true,
+['ccb/qb-attackc.png'] = true,
+['ccb/baoza/baoza6.png'] = true,
+['ccb/baoza/baoza2.png'] = true,
+['ccb/baoza/baoza8.png'] = true,
+['ccb/baoza/baoza10.png'] = true,
+['ccb/zc-attackc.png'] = true,
+['ccb/zc-runc.png'] = true,
+['ccb/gb-runc.png'] = true,
+['ccb/zs-attackc.png'] = true,
+['ccb/shijiebing/shijie_you.png'] = true,
+['ccb/baoza/baoza7.png'] = true,
+['ccb/baoza/baoza5.png'] = true,
+['ccb/gb-attackc.png'] = true,
+['ccb/baoza/baoza4.png'] = true,
+['ccb/baoza/baoza3.png'] = true,
+['ccb/baoza/baoza9.png'] = true,
+['ccb/baoza/baoza1.png'] = true,
+['ccb/qb-runc.png'] = true,
+}
+return data

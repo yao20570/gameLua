@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/limitItemIcon/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{80,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{80,80}}</string>
+			<key>sourceSize</key>
+			<string>{80,80}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>limitItemIcon_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{82,82}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:4ead5d749a9b0d2dee616a9d4e2f8b75:1/1$</string>
+		<key>textureFileName</key>
+		<string>limitItemIcon_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

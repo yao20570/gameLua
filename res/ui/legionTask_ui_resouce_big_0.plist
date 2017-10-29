@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/legionTask/performance.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577,1},{29,56}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{29,56}}</string>
+			<key>sourceSize</key>
+			<string>{29,56}</string>
+		</dict>
+		<key>images/legionTask/scrollBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{575,111}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{575,111}}</string>
+			<key>sourceSize</key>
+			<string>{575,111}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>legionTask_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{607,113}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:1c54f8134f5c2d6e600703b53bd96149:1/1$</string>
+		<key>textureFileName</key>
+		<string>legionTask_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

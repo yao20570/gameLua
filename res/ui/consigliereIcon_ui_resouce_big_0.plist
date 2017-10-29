@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/consigliereIcon/0.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{165,132}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{165,132}}</string>
+			<key>sourceSize</key>
+			<string>{165,132}</string>
+		</dict>
+		<key>images/consigliereIcon/999.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{167,1},{1,1}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{1,1}}</string>
+			<key>sourceSize</key>
+			<string>{1,1}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>consigliereIcon_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{169,134}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:a7fb5f5ec7eb632373c7f8ce426b6079:1/1$</string>
+		<key>textureFileName</key>
+		<string>consigliereIcon_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

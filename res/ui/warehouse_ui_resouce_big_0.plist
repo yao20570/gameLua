@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/warehouse/image01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{168,1},{160,23}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{160,23}}</string>
+			<key>sourceSize</key>
+			<string>{160,23}</string>
+		</dict>
+		<key>images/warehouse/image02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{166,29}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{166,29}}</string>
+			<key>sourceSize</key>
+			<string>{166,29}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>warehouse_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{329,31}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:e49694aceb3f67742554d0d343316061:1/1$</string>
+		<key>textureFileName</key>
+		<string>warehouse_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

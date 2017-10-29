@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/smashEgg/egg_die.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,155},{117,153}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{117,153}}</string>
+			<key>sourceSize</key>
+			<string>{117,153}</string>
+		</dict>
+		<key>images/smashEgg/egg_idle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{117,153}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{117,153}}</string>
+			<key>sourceSize</key>
+			<string>{117,153}</string>
+		</dict>
+		<key>images/smashEgg/egg_shadow.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,309},{99,29}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{99,29}}</string>
+			<key>sourceSize</key>
+			<string>{99,29}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>smashEgg_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{119,339}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:e6a78a375ba7fcf2331ad71e9e37d4d1:1/1$</string>
+		<key>textureFileName</key>
+		<string>smashEgg_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

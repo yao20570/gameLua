@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/legionApply/Bg_legionCreate.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{620,615}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{620,615}}</string>
+			<key>sourceSize</key>
+			<string>{620,615}</string>
+		</dict>
+		<key>images/legionApply/legion_icon.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{622,1},{71,89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{71,89}}</string>
+			<key>sourceSize</key>
+			<string>{71,89}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>legionApply_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{694,617}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:ff420217aebaadf52fafb7937c6cd2e1:1/1$</string>
+		<key>textureFileName</key>
+		<string>legionApply_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>rpg-the-eagles/0000</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{34,36}}</string>
+                <key>offset</key>
+                <string>{1,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{12,10},{34,36}}</string>
+                <key>sourceSize</key>
+                <string>{56,58}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>rpg-the-eagles.png</string>
+            <key>size</key>
+            <string>{64,64}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:52f3dca4aaf57eda699bf7aebbff3f05:1/1$</string>
+            <key>textureFileName</key>
+            <string>rpg-the-eagles.png</string>
+        </dict>
+    </dict>
+</plist>

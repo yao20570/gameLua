@@ -1,0 +1,20 @@
+local data = {
+['images/country/icon_legion_red.png']={0,563,101,28,28},
+['images/country/font_power.png']={0,479,384,60,26},
+['images/country/icon_frame03.png']={0,158,351,132,122},
+['images/country/icon_legion_green.png']={0,563,130,28,28},
+['images/country/icon_frame01.png']={0,158,228,134,122},
+['images/country/font_buff.png']={0,479,411,60,26},
+['images/country/icon_wen_bg.png']={0,1,228,156,175},
+['images/country/btn_add2.png']={0,563,1,49,49},
+['images/country/btn_add1.png']={0,563,51,49,49},
+['images/country/icon_emperor_bg.png']={0,349,1,213,195},
+['images/country/icon_prison_bg.png']={0,506,197,110,186},
+['images/country/icon_wu_bg.png']={0,349,197,156,175},
+['images/country/font_debuff_bg.png']={0,1,1,347,226},
+['images/country/btn_dynasty1.png']={0,293,228,54,99},
+['images/country/btn_dynasty2.png']={0,291,351,54,99},
+['images/country/icon_legion_blue.png']={0,563,159,28,28},
+['images/country/icon_frame02.png']={0,346,373,132,122},
+}
+return data

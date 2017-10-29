@@ -1,0 +1,22 @@
+local ArmRemould = {} 
+ArmRemould[208] = {ID = 208, name = '血煞骑', Lvneed = '[9,64]', commanderLv = 75, sort = 18, timeneed = 4390, need = '[[202,3700000],[203,3700000],[204,7550000],[205,3150000]]', tankneed = '[[205,1]]', itemneed = '[[401,4012,1],[401,4029,1]]'}
+ArmRemould[102] = {ID = 102, name = '朴刀兵', Lvneed = '[9,13]', commanderLv = 0, sort = 1, timeneed = 98, need = '[[202,900],[203,450],[204,450],[205,203]]', tankneed = '[[101,1]]', itemneed = '[]'}
+ArmRemould[103] = {ID = 103, name = '重刀兵', Lvneed = '[9,25]', commanderLv = 0, sort = 5, timeneed = 500, need = '[[202,14040],[203,7020],[204,7020],[205,3570]]', tankneed = '[[102,1]]', itemneed = '[]'}
+ArmRemould[104] = {ID = 104, name = '巨刀兵', Lvneed = '[9,37]', commanderLv = 0, sort = 9, timeneed = 870, need = '[[202,136080],[203,68040],[204,68040],[205,41580]]', tankneed = '[[103,1]]', itemneed = '[]'}
+ArmRemould[105] = {ID = 105, name = '神刀兵', Lvneed = '[9,49]', commanderLv = 0, sort = 13, timeneed = 1500, need = '[[202,1248800],[203,644400],[204,644400],[205,554640]]', tankneed = '[[104,1]]', itemneed = '[]'}
+ArmRemould[202] = {ID = 202, name = '游骑兵', Lvneed = '[9,16]', commanderLv = 0, sort = 2, timeneed = 185, need = '[[202,1620],[203,1350],[204,2850],[205,735]]', tankneed = '[[201,1]]', itemneed = '[]'}
+ArmRemould[203] = {ID = 203, name = '重骑兵', Lvneed = '[9,28]', commanderLv = 0, sort = 6, timeneed = 600, need = '[[202,19800],[203,16500],[204,33000],[205,11250]]', tankneed = '[[202,1]]', itemneed = '[]'}
+ArmRemould[204] = {ID = 204, name = '骠刀骑', Lvneed = '[9,40]', commanderLv = 0, sort = 10, timeneed = 940, need = '[[202,108400],[203,112000],[204,214000],[205,98000]]', tankneed = '[[203,1]]', itemneed = '[]'}
+ArmRemould[205] = {ID = 205, name = '冲锋骑', Lvneed = '[9,52]', commanderLv = 0, sort = 14, timeneed = 1670, need = '[[202,970000],[203,970000],[204,1950000],[205,790000]]', tankneed = '[[204,1]]', itemneed = '[]'}
+ArmRemould[302] = {ID = 302, name = '陷阵兵', Lvneed = '[9,19]', commanderLv = 0, sort = 3, timeneed = 330, need = '[[202,3360],[203,6960],[204,3570],[205,1560]]', tankneed = '[[301,1]]', itemneed = '[]'}
+ArmRemould[303] = {ID = 303, name = '重精兵', Lvneed = '[9,31]', commanderLv = 0, sort = 7, timeneed = 640, need = '[[202,32400],[203,64800],[204,34020],[205,17600]]', tankneed = '[[302,1]]', itemneed = '[]'}
+ArmRemould[304] = {ID = 304, name = '铁甲兵', Lvneed = '[9,43]', commanderLv = 0, sort = 11, timeneed = 1030, need = '[[202,144000],[203,288000],[204,142200],[205,130800]]', tankneed = '[[303,1]]', itemneed = '[]'}
+ArmRemould[305] = {ID = 305, name = '锦帆军', Lvneed = '[9,55]', commanderLv = 0, sort = 15, timeneed = 1830, need = '[[202,1220000],[203,2540000],[204,1220000],[205,1050000]]', tankneed = '[[304,1]]', itemneed = '[]'}
+ArmRemould[402] = {ID = 402, name = '长弓兵', Lvneed = '[9,22]', commanderLv = 0, sort = 4, timeneed = 480, need = '[[202,6840],[203,6840],[204,7360],[205,3120]]', tankneed = '[[401,1]]', itemneed = '[]'}
+ArmRemould[403] = {ID = 403, name = '重弓兵', Lvneed = '[9,34]', commanderLv = 0, sort = 8, timeneed = 700, need = '[[202,57600],[203,57600],[204,61440],[205,28800]]', tankneed = '[[402,1]]', itemneed = '[]'}
+ArmRemould[404] = {ID = 404, name = '劲弩兵', Lvneed = '[9,46]', commanderLv = 0, sort = 12, timeneed = 1110, need = '[[202,255200],[203,255200],[204,250880],[205,168000]]', tankneed = '[[403,1]]', itemneed = '[]'}
+ArmRemould[405] = {ID = 405, name = '神机营', Lvneed = '[9,58]', commanderLv = 0, sort = 16, timeneed = 2000, need = '[[202,2080000],[203,2080000],[204,2080000],[205,1300000]]', tankneed = '[[404,1]]', itemneed = '[]'}
+ArmRemould[108] = {ID = 108, name = '磐石卫士', Lvneed = '[9,61]', commanderLv = 74, sort = 17, timeneed = 3520, need = '[[202,6850000],[203,3330000],[204,3330000],[205,2850000]]', tankneed = '[[105,1]]', itemneed = '[[401,4012,1],[401,4028,1]]'}
+ArmRemould[408] = {ID = 408, name = '紫电劲弩', Lvneed = '[9,70]', commanderLv = 77, sort = 20, timeneed = 6490, need = '[[202,6600000],[203,6600000],[204,6600000],[205,4200000]]', tankneed = '[[405,1]]', itemneed = '[[401,4012,1],[401,4031,1]]'}
+ArmRemould[308] = {ID = 308, name = '先登死士', Lvneed = '[9,67]', commanderLv = 76, sort = 19, timeneed = 5670, need = '[[202,4300000],[203,8650000],[204,4300000],[205,3600000]]', tankneed = '[[305,1]]', itemneed = '[[401,4012,1],[401,4030,1]]'}
+return ArmRemould

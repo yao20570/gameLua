@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 522,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rgb-fire-ball/fireball_00012
+  rotate: false
+  xy: 2, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00014
+  rotate: false
+  xy: 106, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00016
+  rotate: false
+  xy: 210, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00018
+  rotate: false
+  xy: 314, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1
+rgb-fire-ball/fireball_00020
+  rotate: false
+  xy: 418, 2
+  size: 102, 352
+  orig: 102, 352
+  offset: 0, 0
+  index: -1

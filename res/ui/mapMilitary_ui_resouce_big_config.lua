@@ -1,0 +1,23 @@
+local data = {
+['images/mapMilitary/SpBg.png']={0,1,1,578,267},
+['images/mapMilitary/SpTimes3.png']={0,859,1,29,24},
+['images/mapMilitary/SpProgressNodeFull.png']={0,685,48,38,31},
+['images/mapMilitary/target_bg.png']={0,1,848,569,103},
+['images/mapMilitary/target_3.png']={0,1,269,573,192},
+['images/mapMilitary/fontX.png']={0,790,33,28,32},
+['images/mapMilitary/target_flag.png']={0,744,1,45,59},
+['images/mapMilitary/SpTimes.png']={0,580,1,104,47},
+['images/mapMilitary/SpTimes5.png']={0,829,1,29,26},
+['images/mapMilitary/SpProgressBg.png']={0,358,952,533,21},
+['images/mapMilitary/target_2.png']={0,1,462,573,192},
+['images/mapMilitary/SpProgress.png']={0,358,974,529,17},
+['images/mapMilitary/SpTimes1.png']={0,829,28,29,8},
+['images/mapMilitary/target_1.png']={0,1,655,573,192},
+['images/mapMilitary/SpMilitary.png']={0,1,952,356,60},
+['images/mapMilitary/SpBox.png']={0,685,1,58,46},
+['images/mapMilitary/SpProgressNodeEmpty.png']={0,790,1,38,31},
+['images/mapMilitary/SpTimes4.png']={0,819,37,26,27},
+['images/mapMilitary/SpTimes2.png']={0,859,26,29,23},
+['images/mapMilitary/target_scroll.png']={0,846,50,20,212},
+}
+return data

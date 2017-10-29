@@ -1,0 +1,188 @@
+
+skeleton.png
+size: 381,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: true
+  xy: 230, 28
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 355, 15
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+0021
+  rotate: false
+  xy: 355, 3
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 129, 2
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 355, 27
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+0041
+  rotate: false
+  xy: 368, 27
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 2, 2
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+006
+  rotate: true
+  xy: 185, 2
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 355, 38
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+008
+  rotate: true
+  xy: 334, 34
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+009
+  rotate: true
+  xy: 235, 3
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 258, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+011
+  rotate: true
+  xy: 220, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+012
+  rotate: true
+  xy: 333, 7
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+013
+  rotate: true
+  xy: 257, 29
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+014
+  rotate: true
+  xy: 276, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 367, 16
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 312, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 305, 30
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+018
+  rotate: true
+  xy: 294, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+019
+  rotate: true
+  xy: 203, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 334, 50
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 285, 29
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 156, 2
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+shachen01
+  rotate: true
+  xy: 129, 18
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 152, 28
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1

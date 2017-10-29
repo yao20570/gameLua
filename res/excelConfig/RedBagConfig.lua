@@ -1,0 +1,7 @@
+local RedBag = {} 
+RedBag[1] = {ID = 1, effectgroup = 1, initnote = 1500, discount = 90, showdiscount = 1, reward = '[513]', price = 3000, redbag = 1000, num = 5, percent = '[30,80]', showreward = {{406,104,100},{401,3085,3},{401,1044,1},{401,4012,100}}}
+RedBag[2] = {ID = 2, effectgroup = 2, initnote = 150, discount = 80, showdiscount = 2, reward = '[610]', price = 300, redbag = 150, num = 5, percent = '[30,80]', showreward = {{406,103,18},{407,203,500000},{407,204,500000},{401,4012,1}}}
+RedBag[3] = {ID = 3, effectgroup = 3, initnote = 400, discount = 80, showdiscount = 2, reward = '[641]', price = 800, redbag = 300, num = 5, percent = '[30,80]', showreward = {{401,2070,1},{401,3135,3},{401,4012,1},{409,105,1}}}
+RedBag[4] = {ID = 4, effectgroup = 4, initnote = 2000, discount = 90, showdiscount = 1, reward = '[713]', price = 2880, redbag = 1000, num = 5, percent = '[30,80]', showreward = {{406,104,100},{401,1044,1},{401,4012,88},{401,3134,88}}}
+RedBag[5] = {ID = 5, effectgroup = 5, initnote = 1100, discount = 90, showdiscount = 1, reward = '[791]', price = 1680, redbag = 2800, num = 16, percent = '[30,80]', showreward = {{406,104,50},{401,3085,1},{401,1044,1},{401,3141,10}}}
+return RedBag

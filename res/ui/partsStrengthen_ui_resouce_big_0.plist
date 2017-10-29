@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/partsStrengthen/SpHeadBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{148,149}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{148,149}}</string>
+			<key>sourceSize</key>
+			<string>{148,149}</string>
+		</dict>
+		<key>images/partsStrengthen/SpJianTou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,151},{84,42}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{84,42}}</string>
+			<key>sourceSize</key>
+			<string>{84,42}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>partsStrengthen_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{150,194}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:7a1a10561d101f58eeae7a93305228e0:1/1$</string>
+		<key>textureFileName</key>
+		<string>partsStrengthen_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

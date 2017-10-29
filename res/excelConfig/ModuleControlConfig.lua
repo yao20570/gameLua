@@ -1,0 +1,34 @@
+local ModuleControl = {} 
+ModuleControl[1] = {ID = 1, module = 'TreasureModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[2] = {ID = 2, module = 'PullBarActivityModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[3] = {ID = 3, module = 'LotteryEquipModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[4] = {ID = 4, module = 'ConsigliereRecruitModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[5] = {ID = 5, module = 'DayTurntableModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[6] = {ID = 6, module = 'PartsGodModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[7] = {ID = 7, module = 'ActivityModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[8] = {ID = 8, module = 'TaskModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[9] = {ID = 9, module = 'OpenServerGiftModule', fly = 0, popup = 0, effectfly = 1}
+ModuleControl[10] = {ID = 10, module = 'ShopModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[11] = {ID = 11, module = 'BagModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[12] = {ID = 12, module = 'RedPacketModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[13] = {ID = 13, module = 'VipBoxModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[14] = {ID = 14, module = 'VipRebateModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[15] = {ID = 15, module = 'DungeonModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[16] = {ID = 16, module = 'DungeonXModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[17] = {ID = 17, module = 'ArenaModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[18] = {ID = 18, module = 'PartsWarehouseModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[19] = {ID = 19, module = 'PartsStrengthenModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[20] = {ID = 20, module = 'PartsModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[21] = {ID = 21, module = 'GeneralAndSoldierModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[22] = {ID = 22, module = 'WorldBossModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[23] = {ID = 23, module = 'PopularSupportModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[24] = {ID = 24, module = 'TeamModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[25] = {ID = 25, module = 'BarrackModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[26] = {ID = 26, module = 'HeroModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[27] = {ID = 27, module = 'HeroTrainModule', fly = 1, popup = 0, effectfly = 0}
+ModuleControl[28] = {ID = 28, module = 'LimitExpModule', fly = 0, popup = 0, effectfly = 0}
+ModuleControl[29] = {ID = 29, module = 'PersonInfoModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[30] = {ID = 30, module = 'EmperorAwardModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[31] = {ID = 31, module = 'ChargeShareModule', fly = 0, popup = 1, effectfly = 0}
+ModuleControl[32] = {ID = 32, module = 'VipSupplyModule', fly = 0, popup = 1, effectfly = 0}
+return ModuleControl

@@ -1,0 +1,23 @@
+local data = {
+['images/heroFormation/202.png']={0,163,1,80,80},
+['images/heroFormation/203.png']={0,82,1,80,80},
+['images/heroFormation/201.png']={0,244,1,80,80},
+['images/heroFormation/204.png']={0,1,1,80,80},
+['images/heroFormation/303.png']={0,82,1,80,80},
+['images/heroFormation/302.png']={0,163,1,80,80},
+['images/heroFormation/301.png']={0,244,1,80,80},
+['images/heroFormation/304.png']={0,1,1,80,80},
+['images/heroFormation/404.png']={0,1,1,80,80},
+['images/heroFormation/401.png']={0,244,1,80,80},
+['images/heroFormation/402.png']={0,163,1,80,80},
+['images/heroFormation/403.png']={0,82,1,80,80},
+['images/heroFormation/101.png']={0,244,1,80,80},
+['images/heroFormation/504.png']={0,1,1,80,80},
+['images/heroFormation/103.png']={0,82,1,80,80},
+['images/heroFormation/102.png']={0,163,1,80,80},
+['images/heroFormation/501.png']={0,244,1,80,80},
+['images/heroFormation/104.png']={0,1,1,80,80},
+['images/heroFormation/503.png']={0,82,1,80,80},
+['images/heroFormation/502.png']={0,163,1,80,80},
+}
+return data

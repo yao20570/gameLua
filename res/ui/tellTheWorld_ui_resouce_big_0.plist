@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/tellTheWorld/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,705},{80,80}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{80,80}}</string>
+			<key>sourceSize</key>
+			<string>{80,80}</string>
+		</dict>
+		<key>images/tellTheWorld/windowBg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{553,703}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{553,703}}</string>
+			<key>sourceSize</key>
+			<string>{553,703}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>tellTheWorld_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{555,786}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:0235cbd4a886824ab941d6abb32fc35b:1/1$</string>
+		<key>textureFileName</key>
+		<string>tellTheWorld_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

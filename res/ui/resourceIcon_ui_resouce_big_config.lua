@@ -1,0 +1,20 @@
+local data = {
+['images/resourceIcon/202.png']={0,163,163,80,80},
+['images/resourceIcon/203.png']={0,163,82,80,80},
+['images/resourceIcon/201.png']={0,244,1,80,80},
+['images/resourceIcon/206.png']={0,82,82,80,80},
+['images/resourceIcon/204.png']={0,163,1,80,80},
+['images/resourceIcon/205.png']={0,82,163,80,80},
+['images/resourceIcon/302.png']={0,1,82,80,80},
+['images/resourceIcon/301.png']={0,1,163,80,80},
+['images/resourceIcon/218.png']={0,82,1,80,80},
+['images/resourceIcon/305.png']={0,1,1,80,80},
+['images/resourceIcon/108.png']={0,244,163,80,80},
+['images/resourceIcon/121.png']={0,244,82,80,80},
+['images/resourceIcon/101.png']={0,325,163,80,80},
+['images/resourceIcon/103.png']={0,406,1,80,80},
+['images/resourceIcon/102.png']={0,325,82,80,80},
+['images/resourceIcon/104.png']={0,325,1,80,80},
+['images/resourceIcon/118.png']={0,325,1,80,80},
+}
+return data

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/townReport/bgLeft.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{250,121},{248,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{248,95}}</string>
+			<key>sourceSize</key>
+			<string>{248,95}</string>
+		</dict>
+		<key>images/townReport/bgLegionReport.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{608,119}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{608,119}}</string>
+			<key>sourceSize</key>
+			<string>{608,119}</string>
+		</dict>
+		<key>images/townReport/bgRight.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,121},{248,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{248,95}}</string>
+			<key>sourceSize</key>
+			<string>{248,95}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>townReport_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{610,217}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:a2bb647e153bf484e6905bff4f7c8416:1/1$</string>
+		<key>textureFileName</key>
+		<string>townReport_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

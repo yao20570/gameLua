@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/rank/btnTabControl_normal.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145,1},{134,72}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{134,72}}</string>
+			<key>sourceSize</key>
+			<string>{134,72}</string>
+		</dict>
+		<key>images/rank/btnTabControl_selected.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{143,72}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{143,72}}</string>
+			<key>sourceSize</key>
+			<string>{143,72}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>rank_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{280,74}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:5e405488a632571a0709cdbc0f4e97cc:1/1$</string>
+		<key>textureFileName</key>
+		<string>rank_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

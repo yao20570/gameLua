@@ -1,0 +1,131 @@
+
+skeleton.pvr.ccz
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1/000000
+  rotate: true
+  xy: 636, 237
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/1
+  rotate: false
+  xy: 636, 153
+  size: 129, 82
+  orig: 129, 82
+  offset: 0, 0
+  index: -1
+1/1/0001
+  rotate: false
+  xy: 2, 632
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0002
+  rotate: false
+  xy: 2, 317
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0003
+  rotate: false
+  xy: 319, 632
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0004
+  rotate: false
+  xy: 2, 2
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0005
+  rotate: false
+  xy: 319, 317
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0007
+  rotate: false
+  xy: 636, 632
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+1/1/0009
+  rotate: false
+  xy: 319, 2
+  size: 315, 313
+  orig: 315, 313
+  offset: 0, 0
+  index: -1
+
+skeleton2.pvr.ccz
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1/000002
+  rotate: false
+  xy: 2, 626
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000004
+  rotate: false
+  xy: 2, 418
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000006
+  rotate: false
+  xy: 397, 626
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000008
+  rotate: false
+  xy: 2, 210
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000010
+  rotate: false
+  xy: 397, 418
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000012
+  rotate: true
+  xy: 792, 439
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000014
+  rotate: false
+  xy: 2, 2
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1
+1/000016
+  rotate: false
+  xy: 397, 210
+  size: 393, 206
+  orig: 393, 206
+  offset: 0, 0
+  index: -1

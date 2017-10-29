@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/commonIcon/fontWithoutHero.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{642,1},{164,21}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{164,21}}</string>
+			<key>sourceSize</key>
+			<string>{164,21}</string>
+		</dict>
+		<key>images/commonIcon/top_cangku.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,34},{640,32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{640,32}}</string>
+			<key>sourceSize</key>
+			<string>{640,32}</string>
+		</dict>
+		<key>images/commonIcon/top_cangku1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{640,32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{640,32}}</string>
+			<key>sourceSize</key>
+			<string>{640,32}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>commonIcon_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{807,67}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:3f0f21b0b79bc56d6b9047980ea3697d:1/1$</string>
+		<key>textureFileName</key>
+		<string>commonIcon_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

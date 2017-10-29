@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/arenaMail/Icon_envelope.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{95,1},{80,89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{80,89}}</string>
+			<key>sourceSize</key>
+			<string>{80,89}</string>
+		</dict>
+		<key>images/arenaMail/Icon_envelope_open.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{93,94}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{93,94}}</string>
+			<key>sourceSize</key>
+			<string>{93,94}</string>
+		</dict>
+		<key>images/arenaMail/closeMail.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{256,1},{79,57}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{79,57}}</string>
+			<key>sourceSize</key>
+			<string>{79,57}</string>
+		</dict>
+		<key>images/arenaMail/openMail .png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{176,1},{79,77}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{79,77}}</string>
+			<key>sourceSize</key>
+			<string>{79,77}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>arenaMail_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{336,96}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:3e2eda04b1d3ceef986967ad343e6b2f:1/1$</string>
+		<key>textureFileName</key>
+		<string>arenaMail_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+local data = {
+['images/parts/type_11.png']={0,512,649,30,30},
+['images/parts/type_22.png']={0,500,618,30,30},
+['images/parts/parts_bg.jpg']={0,1,1,620,616},
+['images/parts/type_4.png']={0,82,618,38,38},
+['images/parts/SpZbBg.png']={0,1,618,80,80},
+['images/parts/type_1.png']={0,121,657,38,38},
+['images/parts/type_44.png']={0,469,618,30,30},
+['images/parts/type_2.png']={0,121,618,38,38},
+['images/parts/type_33.png']={0,481,649,30,30},
+['images/parts/type_3.png']={0,82,657,38,38},
+['images/parts/icon08.png']={0,160,652,63,32},
+['images/parts/icon07.png']={0,405,618,63,30},
+['images/parts/icon06.png']={0,224,652,65,31},
+['images/parts/font_add_attr.png']={0,160,618,114,33},
+['images/parts/icon04.png']={0,340,618,64,30},
+['images/parts/icon05.png']={0,419,649,61,30},
+['images/parts/icon02.png']={0,290,650,63,31},
+['images/parts/icon03.png']={0,275,618,64,31},
+['images/parts/icon01.png']={0,354,649,64,30},
+}
+return data

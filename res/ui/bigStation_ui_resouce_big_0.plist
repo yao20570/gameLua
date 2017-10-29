@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/bigStation/Frame_external2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{123,21}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{123,21}}</string>
+			<key>sourceSize</key>
+			<string>{123,21}</string>
+		</dict>
+		<key>images/bigStation/black.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,23},{117,95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{117,95}}</string>
+			<key>sourceSize</key>
+			<string>{117,95}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>bigStation_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{125,119}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:0740b508f164b4c742e59d4531ff681f:1/1$</string>
+		<key>textureFileName</key>
+		<string>bigStation_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

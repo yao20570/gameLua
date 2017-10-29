@@ -1,0 +1,22 @@
+local BuildOpen = {} 
+BuildOpen[1] = {ID = 1, name = '官邸', type = 1, opentype = 1, condition = 0, initlevel = 1, moduleName = ' ', tipsIconXY = '[]', productPanel = ' ', jumpmodule = 'MainSceneModule1', reaches = 'BuildingUpPanel'}
+BuildOpen[2] = {ID = 2, name = '兵营', type = 9, opentype = 1, condition = 0, initlevel = 1, moduleName = 'BarrackModule', tipsIconXY = '[]', productPanel = 'RecruitingPanel', jumpmodule = 'BarrackModule9', reaches = 'BarrackBuildPanel'}
+BuildOpen[3] = {ID = 3, name = '兵营', type = 9, opentype = 3, condition = 22, initlevel = 0, moduleName = 'BarrackModule', tipsIconXY = '[]', productPanel = 'RecruitingPanel', jumpmodule = 'BarrackModule9_3', reaches = 'BarrackBuildPanel'}
+BuildOpen[4] = {ID = 4, name = '校场', type = 10, opentype = 3, condition = 13, initlevel = 0, moduleName = 'BarrackModule', tipsIconXY = '[]', productPanel = 'RecruitingPanel', jumpmodule = 'BarrackModule10', reaches = 'BarrackBuildPanel'}
+BuildOpen[5] = {ID = 5, name = '大军基地', type = 12, opentype = 1, condition = 30, initlevel = 0, moduleName = 'BigStationModule', tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[6] = {ID = 6, name = '将军府', type = 13, opentype = 1, condition = 0, initlevel = 0, moduleName = 'HeroHallModule', tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[7] = {ID = 7, name = '军械坊', type = 14, opentype = 1, condition = 25, initlevel = 0, moduleName = 'PartsModule', tipsIconXY = '[-8,100]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[8] = {ID = 8, name = '军师府', type = 15, opentype = 1, condition = 28, initlevel = 0, moduleName = 'ConsigliereModule', tipsIconXY = '[-40,70]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[9] = {ID = 9, name = '仓库', type = 7, opentype = 3, condition = 4, initlevel = 0, moduleName = 'WarehouseModule', tipsIconXY = '[]', productPanel = ' ', jumpmodule = 'MainSceneModule7_9', reaches = 'BuildingUpPanel'}
+BuildOpen[10] = {ID = 10, name = '仓库', type = 7, opentype = 3, condition = 15, initlevel = 0, moduleName = 'WarehouseModule', tipsIconXY = '[]', productPanel = ' ', jumpmodule = 'MainSceneModule7_10', reaches = 'BuildingUpPanel'}
+BuildOpen[11] = {ID = 11, name = '工匠坊', type = 11, opentype = 3, condition = 7, initlevel = 0, moduleName = 'BarrackModule', tipsIconXY = '[]', productPanel = 'RecruitingPanel', jumpmodule = 'BarrackModule11', reaches = 'BuildingUpPanel'}
+BuildOpen[12] = {ID = 12, name = '太学院', type = 8, opentype = 1, condition = 0, initlevel = 0, moduleName = 'ScienceMuseumModule', tipsIconXY = '[]', productPanel = 'ScienceResearchPanel', jumpmodule = 'ScienceMuseumModule8', reaches = 'ScienceBuildPanel'}
+BuildOpen[13] = {ID = 13, name = '演武场', type = 16, opentype = 1, condition = 12, initlevel = 0, moduleName = 'ArenaModule', tipsIconXY = '[-40,70]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[14] = {ID = 14, name = '同盟', type = 17, opentype = 1, condition = 8, initlevel = 1, moduleName = 'LegionSceneModule', tipsIconXY = '[16,90]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[15] = {ID = 15, name = '军制所', type = 18, opentype = 2, condition = 0, initlevel = 0, moduleName = ' ', openfn = 1, tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[16] = {ID = 16, name = '皇帝雕像', type = 19, opentype = 1, condition = 0, initlevel = 0, moduleName = 'CountryModule', openfn = 0, tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[17] = {ID = 17, name = '军机处', type = 20, opentype = 1, condition = 20, initlevel = 0, moduleName = 'MilitaryModule', tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[18] = {ID = 18, name = '船坞', type = 21, opentype = 1, condition = 0, initlevel = 0, moduleName = 'ShipyardModule', openfn = 1, tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[19] = {ID = 19, name = '船', type = 22, opentype = 1, condition = 0, initlevel = 0, moduleName = 'BoatModule', openfn = 1, tipsIconXY = '[]', productPanel = ' ', jumpmodule = ' ', reaches = ' '}
+BuildOpen[20] = {ID = 20, name = '铸币所', type = 2, opentype = 1, condition = 0, initlevel = 0, moduleName = ' ', openfn = 0, tipsIconXY = '[]', productPanel = ' ', jumpmodule = 'MainSceneModule2', reaches = 'BuildingUpPanel'}
+return BuildOpen

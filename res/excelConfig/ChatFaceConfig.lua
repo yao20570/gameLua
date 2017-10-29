@@ -1,0 +1,37 @@
+local ChatFace = {} 
+ChatFace[1] = {ID = 1, iconID = 1, faceinstead = '#亲亲', rank = 1, pagechange = 1}
+ChatFace[2] = {ID = 2, iconID = 2, faceinstead = '#捂嘴', rank = 2, pagechange = 1}
+ChatFace[3] = {ID = 3, iconID = 3, faceinstead = '#再见', rank = 3, pagechange = 1}
+ChatFace[4] = {ID = 4, iconID = 4, faceinstead = '#呆', rank = 4, pagechange = 1}
+ChatFace[5] = {ID = 5, iconID = 5, faceinstead = '#怒', rank = 5, pagechange = 1}
+ChatFace[6] = {ID = 6, iconID = 6, faceinstead = '#可怜', rank = 6, pagechange = 1}
+ChatFace[7] = {ID = 7, iconID = 7, faceinstead = '#糗', rank = 7, pagechange = 1}
+ChatFace[8] = {ID = 8, iconID = 8, faceinstead = '#大笑', rank = 8, pagechange = 1}
+ChatFace[9] = {ID = 9, iconID = 9, faceinstead = '#害羞', rank = 9, pagechange = 1}
+ChatFace[10] = {ID = 10, iconID = 10, faceinstead = '#酷', rank = 10, pagechange = 1}
+ChatFace[11] = {ID = 11, iconID = 11, faceinstead = '#微笑', rank = 11, pagechange = 1}
+ChatFace[12] = {ID = 12, iconID = 12, faceinstead = '#可怕', rank = 12, pagechange = 1}
+ChatFace[13] = {ID = 13, iconID = 13, faceinstead = '#抠鼻', rank = 13, pagechange = 1}
+ChatFace[14] = {ID = 14, iconID = 14, faceinstead = '#汗', rank = 14, pagechange = 1}
+ChatFace[15] = {ID = 15, iconID = 15, faceinstead = '#头槌', rank = 15, pagechange = 1}
+ChatFace[16] = {ID = 16, iconID = 16, faceinstead = '#晕', rank = 16, pagechange = 1}
+ChatFace[17] = {ID = 17, iconID = 17, faceinstead = '#流汗', rank = 17, pagechange = 1}
+ChatFace[18] = {ID = 18, iconID = 18, faceinstead = '#哭', rank = 18, pagechange = 1}
+ChatFace[19] = {ID = 19, iconID = 19, faceinstead = '#问', rank = 1, pagechange = 2}
+ChatFace[20] = {ID = 20, iconID = 20, faceinstead = '#色', rank = 2, pagechange = 2}
+ChatFace[21] = {ID = 21, iconID = 21, faceinstead = '#鬼脸', rank = 3, pagechange = 2}
+ChatFace[22] = {ID = 22, iconID = 22, faceinstead = '#鄙视', rank = 4, pagechange = 2}
+ChatFace[23] = {ID = 23, iconID = 23, faceinstead = '#坏笑', rank = 5, pagechange = 2}
+ChatFace[24] = {ID = 24, iconID = 24, faceinstead = '#鼓掌', rank = 6, pagechange = 2}
+ChatFace[25] = {ID = 25, iconID = 25, faceinstead = '#猪', rank = 7, pagechange = 2}
+ChatFace[26] = {ID = 26, iconID = 26, faceinstead = '#米田共', rank = 8, pagechange = 2}
+ChatFace[27] = {ID = 27, iconID = 27, faceinstead = '#药丸', rank = 9, pagechange = 2}
+ChatFace[28] = {ID = 28, iconID = 28, faceinstead = '#红包', rank = 10, pagechange = 2}
+ChatFace[29] = {ID = 29, iconID = 29, faceinstead = '#睡觉', rank = 11, pagechange = 2}
+ChatFace[30] = {ID = 30, iconID = 30, faceinstead = '#心碎', rank = 12, pagechange = 2}
+ChatFace[31] = {ID = 31, iconID = 31, faceinstead = '#赞', rank = 13, pagechange = 2}
+ChatFace[32] = {ID = 32, iconID = 32, faceinstead = '#PK', rank = 14, pagechange = 2}
+ChatFace[33] = {ID = 33, iconID = 33, faceinstead = '#示爱', rank = 15, pagechange = 2}
+ChatFace[34] = {ID = 34, iconID = 34, faceinstead = '#干杯', rank = 16, pagechange = 2}
+ChatFace[35] = {ID = 35, iconID = 35, faceinstead = '#鲜花', rank = 17, pagechange = 2}
+return ChatFace

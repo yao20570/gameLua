@@ -1,0 +1,20 @@
+local data = {
+['images/activityCenter/SpBg.png']={0,1,1,640,721},
+['images/activityCenter/TxtXianShi2.png']={0,406,789,22,56},
+['images/activityCenter/StateReady.png']={0,357,723,65,65},
+['images/activityCenter/TxtChangGui1.png']={0,357,789,24,56},
+['images/activityCenter/TxtXianShi1.png']={0,429,789,22,56},
+['images/activityCenter/StateOpen.png']={0,423,723,65,65},
+['images/activityCenter/SpZhuangShi1.png']={0,172,813,20,12},
+['images/activityCenter/SpOver.png']={0,244,723,112,76},
+['images/activityCenter/SpZhuangShi2.png']={0,1,814,10,27},
+['images/activityCenter/NotOpen.png']={0,489,723,65,65},
+['images/activityCenter/btnClose2.png']={0,160,723,41,89},
+['images/activityCenter/SpZhuangShi3.png']={0,452,789,34,54},
+['images/activityCenter/btnClose1.png']={0,202,723,41,89},
+['images/activityCenter/outOfDate.png']={0,1,723,158,90},
+['images/activityCenter/SpHeiDibg.png']={0,12,814,159,24},
+['images/activityCenter/EndWork.png']={0,555,723,65,65},
+['images/activityCenter/TxtChangGui2.png']={0,382,789,23,56},
+}
+return data

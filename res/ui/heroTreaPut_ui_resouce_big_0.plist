@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/heroTreaPut/di.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{612,146}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{612,146}}</string>
+			<key>sourceSize</key>
+			<string>{612,146}</string>
+		</dict>
+		<key>images/heroTreaPut/input.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{614,1},{60,33}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{60,33}}</string>
+			<key>sourceSize</key>
+			<string>{60,33}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>heroTreaPut_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{675,148}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:6e5f665b6b2b38c2dc7ea1154fc329c2:1/1$</string>
+		<key>textureFileName</key>
+		<string>heroTreaPut_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

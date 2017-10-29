@@ -1,0 +1,22 @@
+local data = {
+['images/countryIcon/type_10.png']={0,325,78,17,33},
+['images/countryIcon/type_8.png']={0,325,44,15,33},
+['images/countryIcon/type_3.png']={0,341,30,14,28},
+['images/countryIcon/type_4.png']={0,341,1,14,28},
+['images/countryIcon/type_2.png']={0,291,82,15,31},
+['images/countryIcon/type_5.png']={0,307,82,15,28},
+['images/countryIcon/skill_iocn4.png']={0,1,1,80,80},
+['images/countryIcon/skill_iocn3.png']={0,82,1,80,80},
+['images/countryIcon/type_6.png']={0,325,1,15,42},
+['images/countryIcon/skill_4.png']={0,1,82,40,40},
+['images/countryIcon/skill_iocn2.png']={0,163,1,80,80},
+['images/countryIcon/skill_2.png']={0,83,82,40,40},
+['images/countryIcon/skill_3.png']={0,42,82,40,40},
+['images/countryIcon/skill_iocn1.png']={0,244,1,80,80},
+['images/countryIcon/skill_1.png']={0,165,82,40,40},
+['images/countryIcon/prison_3.png']={0,249,82,41,20},
+['images/countryIcon/prison_2.png']={0,206,82,42,20},
+['images/countryIcon/prison_1.png']={0,206,103,42,20},
+['images/countryIcon/skill_11.png']={0,124,82,40,40},
+}
+return data

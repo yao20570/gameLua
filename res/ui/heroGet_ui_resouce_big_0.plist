@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/heroGet/Bg_di.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{59,1},{640,155}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{640,155}}</string>
+			<key>sourceSize</key>
+			<string>{640,155}</string>
+		</dict>
+		<key>images/heroGet/Bg_name.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{57,178}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{57,178}}</string>
+			<key>sourceSize</key>
+			<string>{57,178}</string>
+		</dict>
+		<key>images/heroGet/Text_get.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{700,1},{306,127}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{306,127}}</string>
+			<key>sourceSize</key>
+			<string>{306,127}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>heroGet_ui_resouce_big_0.webp</string>
+		<key>size</key>
+		<string>{1007,180}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:9752312194ff28bbf7351e3337d45b00:1/1$</string>
+		<key>textureFileName</key>
+		<string>heroGet_ui_resouce_big_0.webp</string>
+	</dict>
+</dict>
+</plist>

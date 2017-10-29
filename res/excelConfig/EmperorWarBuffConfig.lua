@@ -1,0 +1,29 @@
+local EmperorWarBuff = {} 
+EmperorWarBuff[1] = {ID = 1, buffInfo = '许昌战斗命中提高20%'}
+EmperorWarBuff[2] = {ID = 2, buffInfo = '许昌城民忠值增加速度提高10%'}
+EmperorWarBuff[3] = {ID = 3, buffInfo = '许昌战斗闪避提高20%'}
+EmperorWarBuff[4] = {ID = 4, buffInfo = '许昌城民忠值增加速度提高10%'}
+EmperorWarBuff[5] = {ID = 5, buffInfo = '许昌战斗伤害提高20%'}
+EmperorWarBuff[6] = {ID = 6, buffInfo = '许昌城民忠值增加速度提高10%'}
+EmperorWarBuff[7] = {ID = 7, buffInfo = '许昌战斗受到伤害降低20%'}
+EmperorWarBuff[8] = {ID = 8, buffInfo = '许昌城民忠值增加速度提高10%'}
+EmperorWarBuff[9] = {ID = 9, buffInfo = '长安战斗命中提高20%'}
+EmperorWarBuff[10] = {ID = 10, buffInfo = '长安城民忠值增加速度提高10%'}
+EmperorWarBuff[11] = {ID = 11, buffInfo = '长安战斗闪避提高20%'}
+EmperorWarBuff[12] = {ID = 12, buffInfo = '长安城民忠值增加速度提高10%'}
+EmperorWarBuff[13] = {ID = 13, buffInfo = '长安战斗伤害提高20%'}
+EmperorWarBuff[14] = {ID = 14, buffInfo = '长安城民忠值增加速度提高10%'}
+EmperorWarBuff[15] = {ID = 15, buffInfo = '长安战斗受到伤害降低20%'}
+EmperorWarBuff[16] = {ID = 16, buffInfo = '长安城民忠值增加速度提高10%'}
+EmperorWarBuff[17] = {ID = 17, buffInfo = '洛阳战斗命中提高20%'}
+EmperorWarBuff[18] = {ID = 18, buffInfo = '洛阳城民忠值增加速度提高10%'}
+EmperorWarBuff[19] = {ID = 19, buffInfo = '洛阳战斗闪避提高20%'}
+EmperorWarBuff[20] = {ID = 20, buffInfo = '洛阳城民忠值增加速度提高10%'}
+EmperorWarBuff[21] = {ID = 21, buffInfo = '洛阳战斗伤害提高20%'}
+EmperorWarBuff[22] = {ID = 22, buffInfo = '洛阳城民忠值增加速度提高10%'}
+EmperorWarBuff[23] = {ID = 23, buffInfo = '洛阳战斗受到伤害降低20%'}
+EmperorWarBuff[24] = {ID = 24, buffInfo = '洛阳城民忠值增加速度提高10%'}
+EmperorWarBuff[25] = {ID = 25, buffInfo = '[[407,202,2500000],[407,204,2500000],[407,203,2500000],[401,4404,2]]'}
+EmperorWarBuff[26] = {ID = 26, buffInfo = '[[407,202,3000000],[407,204,3000000],[407,203,3000000],[401,4404,3]]'}
+EmperorWarBuff[27] = {ID = 27, buffInfo = '[[407,202,4000000],[407,204,4000000],[407,203,4000000],[401,4404,4]]'}
+return EmperorWarBuff

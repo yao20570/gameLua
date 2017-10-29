@@ -1,0 +1,48 @@
+
+skeleton.pvr.ccz
+size: 1024,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 2, 191
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1
+0002
+  rotate: false
+  xy: 2, 2
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1
+0003
+  rotate: false
+  xy: 222, 191
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1
+0004
+  rotate: false
+  xy: 222, 2
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1
+0005
+  rotate: false
+  xy: 442, 191
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1
+0006
+  rotate: false
+  xy: 442, 2
+  size: 218, 187
+  orig: 218, 187
+  offset: 0, 0
+  index: -1

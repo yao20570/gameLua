@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/heroHall/Bg_listView.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{615,187}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{615,187}}</string>
+			<key>sourceSize</key>
+			<string>{615,187}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>heroHall_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{617,189}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:9a63b69f1593e7c6240ce008b441fd1f:1/1$</string>
+		<key>textureFileName</key>
+		<string>heroHall_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

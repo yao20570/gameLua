@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>images/townRank/imgChain.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{210,1},{8,72}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{8,72}}</string>
+			<key>sourceSize</key>
+			<string>{8,72}</string>
+		</dict>
+		<key>images/townRank/imgFlag.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1,1},{208,173}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{208,173}}</string>
+			<key>sourceSize</key>
+			<string>{208,173}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>townRank_ui_resouce_big_0.pvr.ccz</string>
+		<key>size</key>
+		<string>{219,175}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:4dcc450d7ae4b8f5d540b970b79c455e:1/1$</string>
+		<key>textureFileName</key>
+		<string>townRank_ui_resouce_big_0.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+local EmperorWar = {} 
+EmperorWar[1] = {ID = 1, cityName = '许昌东营', type = 1, dataX = 349, dataY = 297, cityLv = 1, cityIcon = 5, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[1,2]'}
+EmperorWar[2] = {ID = 2, cityName = '许昌西营', type = 1, dataX = 349, dataY = 301, cityLv = 1, cityIcon = 6, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[3,4]'}
+EmperorWar[3] = {ID = 3, cityName = '许昌南营', type = 1, dataX = 347, dataY = 299, cityLv = 1, cityIcon = 7, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[5,6]'}
+EmperorWar[4] = {ID = 4, cityName = '许昌北营', type = 1, dataX = 351, dataY = 299, cityLv = 1, cityIcon = 8, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[7,8]'}
+EmperorWar[5] = {ID = 5, cityName = '长安东营', type = 1, dataX = 249, dataY = 297, cityLv = 1, cityIcon = 5, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[9,10]'}
+EmperorWar[6] = {ID = 6, cityName = '长安西营', type = 1, dataX = 249, dataY = 301, cityLv = 1, cityIcon = 6, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[11,12]'}
+EmperorWar[7] = {ID = 7, cityName = '长安南营', type = 1, dataX = 247, dataY = 299, cityLv = 1, cityIcon = 7, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[13,14]'}
+EmperorWar[8] = {ID = 8, cityName = '长安北营', type = 1, dataX = 251, dataY = 299, cityLv = 1, cityIcon = 8, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[15,16]'}
+EmperorWar[9] = {ID = 9, cityName = '洛阳东营', type = 1, dataX = 299, dataY = 297, cityLv = 1, cityIcon = 5, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[17,18]'}
+EmperorWar[10] = {ID = 10, cityName = '洛阳西营', type = 1, dataX = 299, dataY = 301, cityLv = 1, cityIcon = 6, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[19,20]'}
+EmperorWar[11] = {ID = 11, cityName = '洛阳南营', type = 1, dataX = 297, dataY = 299, cityLv = 1, cityIcon = 7, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[21,22]'}
+EmperorWar[12] = {ID = 12, cityName = '洛阳北营', type = 1, dataX = 301, dataY = 299, cityLv = 1, cityIcon = 8, playerLevel = 15, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 20, occupyNum = 2400, occupyBuff = '[23,24]'}
+EmperorWar[13] = {ID = 13, cityName = '许昌', type = 2, dataX = 349, dataY = 299, cityLv = 2, cityIcon = 1, playerLevel = 25, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 10, occupyNum = 6000, occupyBuff = '[25]'}
+EmperorWar[14] = {ID = 14, cityName = '长安', type = 2, dataX = 249, dataY = 299, cityLv = 3, cityIcon = 2, playerLevel = 25, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 10, occupyNum = 6000, occupyBuff = '[26]'}
+EmperorWar[15] = {ID = 15, cityName = '洛阳', type = 3, dataX = 299, dataY = 299, cityLv = 4, cityIcon = 9, playerLevel = 25, legionLevel = 4, readyTime = 300, troopsNum = 1, integralSpeed = 10, occupyNum = 6000, occupyBuff = '[27]'}
+return EmperorWar
